@@ -134,4 +134,4 @@ dmypy.json
 
 # this is for vscode
 .vscode/
-
+.vs/
